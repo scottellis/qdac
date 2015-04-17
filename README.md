@@ -1,5 +1,7 @@
 ## qdac
 
+Checkout the [linux] or [freebsd] branch.
+
 Userland driver for an [MCP4728 Quad DAC][datasheet] attached to the I2C
 bus of a Gumstix Duovero running FreeBSD. 
 
